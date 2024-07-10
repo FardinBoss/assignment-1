@@ -1,0 +1,136 @@
+@import url('https://fonts.googleapis.com/css2?family=Work+Sans:ital,wght@0,100..900;1,100..900&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+}
+#hero{
+    background-image: url(assets/Hero-bg.png);
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 1440;
+    height: 652;
+    margin: 60px 0px;
+}
+#hero .img-container{
+    text-align: center;
+    padding: 30px;
+}
+#hero .hero-container
+{
+    width: 685px;
+}
+#hero .title{
+    color: rgb(13, 19, 33);
+font-family: work sans;
+font-size: 32px;
+font-weight: 800;
+line-height: 42px;
+letter-spacing: 0%;
+text-align: center;
+padding: 10px;
+}
+#hero .subtitle{
+    color: rgb(13, 19, 33);
+font-family: work sans;
+font-size: 12px;
+font-weight: 400;
+line-height: 18px;
+letter-spacing: 0%;
+text-align: center;
+padding: 10px;
+border-radius: 16px;
+}
+.btn-container{
+    text-align: center;
+    padding: 30px;
+}
+.btn{
+    border-radius: 8px;
+
+background: rgb(13, 19, 33);
+color: rgb(255, 255, 255);
+font-family: work sans;
+font-size: 12px;
+font-weight: 600;
+line-height: 18px;
+letter-spacing: 0%;
+text-align: center;
+padding: 12px 6px;
+}
+.heading-container{
+    border-radius: 16px;
+    margin: 60px 80px;
+    padding: 80px ;
+background: rgba(13, 19, 33, 0.02);
+}
+
+.heading{
+    color: rgb(13, 19, 33);
+font-family: work sans;
+font-size: 32px;
+font-weight: 800;
+line-height: 37px;
+letter-spacing: 0%;
+text-align: center;
+padding: 40px;
+}
+.heading-title{
+    color: rgb(13, 19, 33);
+font-family: work sans;
+font-size: 14px;
+font-weight: 400;
+line-height: 16px;
+letter-spacing: 0%;
+text-align: center;
+opacity: 0.7;
+padding:0px 120px 40px 120px;
+}
+.container-1{
+  display: flex;
+  border-radius: 16px;
+padding: 50px;
+  background: linear-gradient(90.00deg, rgb(255, 255, 255),rgba(255, 255, 255, 0) 100%);
+}
+.container-1-heading{
+    color: rgba(13, 19, 33, 0.7);
+font-family: work sans;
+font-size: 24px;
+font-weight: 700;
+line-height: 36px;
+letter-spacing: 0%;
+text-align: left;
+}
+.container-1-title{
+
+color: rgb(13, 19, 33);
+font-family: work sans;
+font-size: 16px;
+font-weight: 400;
+line-height: 26px;
+letter-spacing: 0%;
+text-align: left;
+opacity: 0.7;
+padding:20px 220px 20px 0px;
+}
+.btn-1{
+    box-sizing: border-box;
+border: 1px solid;
+text-align: center;
+padding: 10px;
+box-sizing: border-box;
+border: 1px solid rgb(13, 19, 33);
+background-color: white;
+font-size: 16px;
+font-family: work sans;
+}
+.btn-1-container{
+    padding: 50px 0px 0px 0px;
+}
+
+
+
+
+
