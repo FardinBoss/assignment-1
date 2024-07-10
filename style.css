@@ -221,5 +221,35 @@ font-family: work sans;
       padding: 50px 0px 0px 0px;
   }
   
+.inspiration-title{
+    color: rgb(13, 19, 33);
+    font-family: work sans;
+    font-size: 32px;
+    font-weight: 800;
+    line-height: 37px;
+    letter-spacing: 0%;
+    text-align: center;
+    
+}
+.inspiration-text{
+    color: rgb(13, 19, 33);
+    font-family: work sans;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 26px;
+    letter-spacing: 0%;
+    text-align: center;
+    opacity: 0.7;
+    padding: 20px 200px 20px 200px;
+    margin: 0px 40px 0px 40px;
+}
+.vedio{
+    display: block;
+    margin: auto;
+}
+
+
+
+
 
 
